@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+    background-image: url('@/assets/天空.jpg');
+    /* 设置背景图片的显示方式，可以根据需要调整 */
+    background-size: cover;
+    background-position: center;
+    /* 可选，设置背景固定或滚动 */
+    background-attachment: fixed;
+    /*!* 可选，设置背景重复方式 *!*/
+    /*background-repeat: no-repeat;*/
+    /*!* 设置页面的文字颜色，以确保文字可读性 *!*/
+    /*color: #ffffff;*/
+}

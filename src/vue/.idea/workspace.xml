@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88d577d9-c57c-4734-886f-2f8822e624d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2YILgUCIIVfN8muQJMSti0rPBoM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RabbitNews" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\demo\Blog\vue\vue-admin\src\views\CVE" />
+      <recent name="E:\demo\Blog\vue\vue-admin\src\views" />
+      <recent name="E:\demo\Blog\vue\vue-news\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\demo\Blog\vue\vue-admin\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.vue-news">
+    <configuration name="vue-admin" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/vue-admin/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="vue-news" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/vue-news/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.vue-admin" />
+      <item itemvalue="npm.vue-news" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88d577d9-c57c-4734-886f-2f8822e624d2" name="Changes" comment="" />
+      <created>1700208258246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700208258246</updated>
+      <workItem from="1700208264055" duration="42000" />
+      <workItem from="1701154039803" duration="118000" />
+      <workItem from="1701154178029" duration="22497000" />
+      <workItem from="1701266867640" duration="19655000" />
+      <workItem from="1701340408605" duration="44537000" />
+      <workItem from="1701856017746" duration="10052000" />
+      <workItem from="1702127525187" duration="5291000" />
+      <workItem from="1702134697069" duration="3360000" />
+      <workItem from="1702302513792" duration="1239000" />
+      <workItem from="1702360623543" duration="3749000" />
+      <workItem from="1702532756119" duration="12274000" />
+      <workItem from="1702969728563" duration="6513000" />
+      <workItem from="1703132700313" duration="32646000" />
+      <workItem from="1703514623358" duration="91494000" />
+      <workItem from="1704610162307" duration="987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
