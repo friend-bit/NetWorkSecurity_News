@@ -23,7 +23,7 @@ mybatis-plus:
       id-type: auto
 
 oss:
-  accessKeyId: LTAI5tJGwmuMbwQoq1tkoRaj
-  accessKeySecret: eHtirKJzb9r6DVtS7hvyESD22Vh1uf
-  bucketName: watermelonetwork
-  endpoint: oss-cn-zhangjiakou.aliyuncs.com
+  accessKeyId: 
+  accessKeySecret: 
+  bucketName: 
+  endpoint: 
